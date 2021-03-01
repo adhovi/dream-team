@@ -20,7 +20,9 @@ const Player = (props) => {
         <button
           className="btn btn-primary my-btn"
           onClick={() => {
-            setSelectStatus("Selected");
+            if (props.team.length < 11) {
+              setSelectStatus("Selected");
+            }
             props.handleSelectPlayer(props.player);
           }}
         >

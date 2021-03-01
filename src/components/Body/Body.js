@@ -35,6 +35,7 @@ const Body = () => {
         </div>
         <div className="col-md-8 order-md-0">
           <Players
+            team={team}
             handleSelectPlayer={handleSelectPlayer}
             players={players}
             team={team}
