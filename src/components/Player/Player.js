@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Player.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
 
 const Player = (props) => {
   const { image, name, sallery } = props.player;
+  const [selectStatus, setSelectStatus] = useState("Select");
   return (
     <div className="col-sm-4 g-2">
       <div
@@ -18,9 +19,12 @@ const Player = (props) => {
 
         <button
           className="btn btn-primary my-btn"
-          onClick={() => props.handleSelectPlayer(props.player)}
+          onClick={() => {
+            setSelectStatus("Selected");
+            props.handleSelectPlayer(props.player);
+          }}
         >
-          <FontAwesomeIcon icon={faUserPlus} /> Select
+          <FontAwesomeIcon icon={faUserPlus} /> {selectStatus}
         </button>
       </div>
     </div>

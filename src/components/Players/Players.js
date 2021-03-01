@@ -3,7 +3,7 @@ import Player from "../Player/Player";
 import './Players.css'
 
 const Players = (props) => {
-    const { players,handleSelectPlayer } = props;
+    const { players, handleSelectPlayer } = props;
   return (
     <div className="row mb-5">
       <h3 className="header-style mr-5">All 15 Players of Draft</h3>
