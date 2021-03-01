@@ -1,0 +1,11 @@
+.my-navbar {
+  background-color: #002280;
+}
+.my-navbar a {
+  color: white;
+  font-size: 18px;
+}
+.logo{
+    font-weight: bold;
+    font-size: 25px!important;
+}

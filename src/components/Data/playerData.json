@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Mashrafee",
+    "sallery": "476",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573789/BdPlayerList/Mashrafee_Mortoza_agpihr.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mushfiqur",
+    "sallery": "713",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573791/BdPlayerList/Mushfiqur_Rahim_ywuyr1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sakib",
+    "sallery": "580",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573792/BdPlayerList/Sakib_Al_Hasan_n2e6ah.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tamim Iqbal",
+    "sallery": "324",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573792/BdPlayerList/Tamim_Iqbal_uxl1wy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Soumya Sarker",
+    "sallery": "896",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573792/BdPlayerList/Soumya_Sarker_rbz6u0.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Saifuddin",
+    "sallery": "661",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573791/BdPlayerList/Saifuddin_vkvsuf.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rubel Hussain",
+    "sallery": "792",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573791/BdPlayerList/Rubel_Hussain_nufaza.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sabbir Rahman",
+    "sallery": "682",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573791/BdPlayerList/Sabbir_Rahman_esi00o.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mustafizur",
+    "sallery": "481",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573790/BdPlayerList/Mustafizur_Rahman_etrhyv.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mosaddek",
+    "sallery": "872",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573790/BdPlayerList/Mosaddek_fc3kqo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Liton Das",
+    "sallery": "462",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573790/BdPlayerList/Liton_Das_oxqjxz.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mahmudullah",
+    "sallery": "734",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573789/BdPlayerList/Mahmudullah_p3ekar.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mehedi Miraz",
+    "sallery": "509",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573789/BdPlayerList/Mehedi_Miraz_wsefo9.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Abu Jayed",
+    "sallery": "735",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573789/BdPlayerList/Abu_Jayed_oy2rqt.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Imrul Kayes",
+    "sallery": "143",
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1614573788/BdPlayerList/Imrul_Kayes_b54ck9.jpg"
+  }
+]

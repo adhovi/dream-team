@@ -1,0 +1,8 @@
+.header-style {
+  display: inline-block;
+  color: white;
+  background-color: #526b8c;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+.my-card-2 {
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  border-radius: 10px;
+  margin: 3% auto;
+  box-shadow: 0 0 100px #2962c623;
+}

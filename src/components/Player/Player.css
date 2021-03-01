@@ -1,0 +1,27 @@
+.my-card {
+  height: 300px;
+  text-align: center;
+  padding: 50% 0;
+  margin: 3%;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 100px #2962c623;
+}
+.my-card img {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+.sallery {
+  color: red;
+  font-weight: bold;
+}
+.my-btn {
+  background-color: #230cc0;
+  color: white;
+  padding: 7px 17px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  box-shadow: 0 5px 20px #240cc07e;
+}
