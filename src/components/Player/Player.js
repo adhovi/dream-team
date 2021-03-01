@@ -5,7 +5,6 @@ import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
 
 const Player = (props) => {
   const { image, name, sallery } = props.player;
-  console.log(props);
   return (
     <div className="col-sm-4 g-2">
       <div
@@ -18,7 +17,7 @@ const Player = (props) => {
         <h5 className="sallery">${sallery}</h5>
 
         <button
-          className="my-btn"
+          className="btn btn-primary my-btn"
           onClick={() => props.handleSelectPlayer(props.player)}
         >
           <FontAwesomeIcon icon={faUserPlus} /> Select

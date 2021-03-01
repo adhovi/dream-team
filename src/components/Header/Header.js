@@ -1,16 +1,18 @@
 import React from "react";
 import "./Header.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg my-navbar">
+      <nav className="navbar navbar-expand-lg my-navbar text-dark">
         <div className="container">
           <a className="navbar-brand logo" href="/home">
             Dream-Team
           </a>
           <button
-            className="navbar-toggler"
+            className="navbar-toggler expand-icon"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
@@ -18,7 +20,7 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span className="navbar-toggler-icon"></span>
+            <FontAwesomeIcon icon={faBars} />
           </button>
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
